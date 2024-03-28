@@ -204,3 +204,9 @@
     line-break:anywhere;
     -webkit-line-clamp: 2;
 } */
+
+/* 视频标题 */
+.video_name{
+    font-size: 30px;
+    padding: 40px 40px 40px;
+}
