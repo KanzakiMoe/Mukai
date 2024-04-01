@@ -3,9 +3,11 @@
 
 # http://www.wujiehanhua.site
 
-Mukai SCLG belongs to WUJIE Animation Association
+Mukai SCLG is a nonprofit organization that belongs to WUJIE Animation Association
 
 # ↓↓↓ Contact us ↓↓↓
+
 Mukai SCLG official account: https://space.bilibili.com/472069053
+
 WUJIE Animation Association official account: https://space.bilibili.com/2515537
 
