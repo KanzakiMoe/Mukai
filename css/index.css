@@ -215,11 +215,17 @@
 
 /* ani.html */
 .ani_video_name{
-    font-size: 30px;
-    padding-left: 200px;
+    font-size: 25px;
+    padding-left: 60px;
     display: flex;
     align-items: center;
 }
+
+.ani_large-header .ani_main{
+    width: 100%;
+    padding: 0 60px;
+    box-sizing: border-box;
+ }
 
 .ani_main .recommended-container{
     display: grid;
@@ -236,13 +242,13 @@
     overflow: hidden;
  }
 
- .ani_main .card-image img{
+ .ani_main .recommended-card .card-image img{
     width: 100%;
     height: 100%;
     /* vertical-align: middle; */
  }
 
- .card-image .image-mask{
+ .ani_main .recommended-card .card-image .image-mask{
     position: absolute;
     bottom: 0;
     left: 0;
@@ -257,14 +263,14 @@
     align-items: center;
  }
 
- .card-image .image-mask .stats-left{
-    font-size: 20px;
+ .ani_main .recommended-card .card-image .image-mask .stats-left{
+    font-size: 16px;
     flex: 1;
     display: flex;
     align-items: center;
 }
 
-.image-mask svg{
+.ani_main .recommended-card .card-image .image-mask svg{
     width: 18px;
     height: 18px;
     color: white;
